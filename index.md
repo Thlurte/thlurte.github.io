@@ -1,8 +1,6 @@
 ---
 layout: page
 full_logo: true
-title:
-subtitle:
 description: mehhh....
 sitemap:
   priority: 1.0
