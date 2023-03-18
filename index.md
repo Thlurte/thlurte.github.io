@@ -7,16 +7,11 @@ description: mehhh....
 sitemap:
   priority: 1.0
 ---
-<p class="describe-text">Oh gosh this is crazy as hell</p>
+<img src="assets/img/jose-alejandro-cuffia-k1LNP6dnyAE-unsplash.jpg" style="display: block; margin: 0 auto; width: 30%; height: 70%; border-radius: 50%">
 <br>
-This is the index page, describe yourself in few sentences here. Perhaps talk about what you do for living and what you do in your free time. Maybe even leave an [email@address.com](#) or a link to your [resume](#).
+<br>
+Hi, I am a student exploring and experimenting the symbiotic relationship between biological and synthetic entities. My preference lies in spending time on building tools that offer humans an additional perspective on the complexity of the natural world.
 
-Pudhina Fresh is free and open-source. Checkout [Pudhina Fresh](https://github.com/ritijjain/pudhina-fresh).
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+At times i also make feeble attempts to delve deeper into the realm of science fiction and philosophical litreatures to gain alternate perspective on the human condition and explore the possiblities of the fucture.
+
