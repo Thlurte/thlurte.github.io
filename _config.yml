@@ -6,9 +6,6 @@ url: "https://thlurte.github.io" # Site base URL
 
 author:
   name: thlurte
-  github: github.com/Thlurte # GitHub username, used for GitHub icon on the top right
-  email: s92062851@ousl.lk # Used for email icon on the top right
-  homepage: https://thlurte.github.io # This links to your name in post meta
   twitter: # Twitter username, used for Twitter Card Analytics
 
 disqus_name: # Setting this will turn on Disqus comments
