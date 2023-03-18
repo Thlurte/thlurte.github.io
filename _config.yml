@@ -1,5 +1,3 @@
-title:  thlurte # Shown in header on pages with full_logo: true
-short_logo: t. # Shown in header on all pages by default unless full_logo: true is set
 description: > # The description for your site
  Whatever.
 url: "https://thlurte.github.io" # Site base URL
