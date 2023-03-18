@@ -1,0 +1,18 @@
+<div class="card-body">
+    <div class="row">
+        <div class="col-sm-8">
+            {% assign tags = project.tags %}
+            {% include tag_loop.html %}
+            <h4><b>{{ project.name }}</b></h4>
+            <p>{{ project.description_less }}</p>
+            {{ project.description_more }}
+            {{ project.action_buttons }}
+        </div>
+        <div class="col-sm-4">
+            {% if project.img_src %}
+                <img class="post-card-image" src="{{ site.url }}{{ project.img_src }}" loading="lazy">
+            {% endif %} 
+        </div>
+    </div>
+</div>
+<hr>
