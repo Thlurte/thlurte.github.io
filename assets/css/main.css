@@ -3,6 +3,8 @@
 
 body {
     font-family: 'Fira Code';
+    box-sizing: border-box;
+    text-align: justify;
 }
 
 a {
@@ -14,6 +16,7 @@ p,
 ul,
 ol,
 dl {
+  overflow-wrap: break-word;
   font-size: 100%;
   line-height: 32px;
 }
@@ -86,7 +89,7 @@ th {
 }
 
 .navigation {
-  float: left;
+    text-align: left;
   font-size: 10px;
 }
 

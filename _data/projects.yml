@@ -1,45 +1,38 @@
-- name: Project One # Project name, also used as heading
+- name: Vanilla Ipython Notebooks # Project name, also used as heading
   id: p1 # Project id, must be unique amongst the projects
-  img_src: /assets/img/connectpie-page.png # Optional image
-  description_less: This part of the project description is visible at all times. # Description shown at all times, text only
+  img_src: /assets/img/README_1200x800.gif # Optional image
+  description_less:  This repo contains a collection of problems i solved using few  python libraries.  # Description shown at all times, text only
   description_more: > # Description shown only when the project card is expanded, HTML only
-    <p>This part is only seen when you click on the project card.</p> 
+    <p></p>
   action_buttons: > # Action buttons for project, HTML only
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
-  tags: [tag1, tag2] # A list of tags
+    <a href="https://github.com/Thlurte/Vanilla" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
+  tags: [python]
 
-- name: Pudina Fresh Jekyll Theme
+- name: Pneumonia Diagnosis
   id: pf
-  img_src: 
-  description_less: A minimal yet feature-rich Jekyll theme made for personal websites and blogs.
+  description_less: CNN model to classify chest X-ray images of patients.
   description_more: >
-    <p>This site uses Pudhina Fresh theme.</p>
+    <p>This model is developed with tensorflow and has an accuracy of 85% on the test set.</p>
   action_buttons: >
-    <a href="https://github.com/ritijjain/pudhina-fresh" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
-    <a href="https://ritijjain.com/2020/09/12/pudhina-fresh.html" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
-  tags: [jekyll, open-source]
+    <a href="https://colab.research.google.com/drive/1ksygUrfqC2LfUjSmG4hwt2ANPvgiumBC?usp=sharing" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp View Project</a>
+  tags: [cnn,tensorflow]
 
-- name: Project Two
+- name: Tweet classification model
   id: p2
-  img_src: 
-  description_less: Refer to docs to learn how to add your own projects.
+  img_src:
+  description_less: A model to classify disaster-related tweets.
   description_more: >
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    <p>Implmented with python library tensorflow.</p>
   action_buttons: >
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp View Project</a>
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
-  tags: [tag3, docs]
+    <a href="https://colab.research.google.com/drive/17h6-53AAIquwf5kaQD2-rWFbKJ1CPoLl?usp=sharing" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp View Project</a>
+  tags: [nlp,tensorflow]
 
-- name: Project Three
+- name:  Heart disease prediction
   id: p3
-  img_src: /assets/img/weatherpie-page.png
-  description_less: Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam.
+  img_src: /assets/img/a.jpg
+  description_less: Three different models to identify the presence or absence of heart disease.
   description_more: >
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    <p>Models like Logistic regression, k-nearest neighbhors classifier and random forest classfier are implement in this project.</p>
   action_buttons: >
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp View Project</a>
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
-  tags: [tag2, tag4]
+    <a href=https://colab.research.google.com/drive/1Mj8sIAmpZK-HSBhv10hXKR5JpoGiGLJZ"" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp View Project</a>
+  tags: [sklearn]
