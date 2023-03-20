@@ -1,6 +1,8 @@
+description: > # The description for your site
+ Whatever.
+
 author:
   name: thlurte
-  twitter: # Twitter username, used for Twitter Card Analytics
 
 disqus_name: # Setting this will turn on Disqus comments
 g_track_id: # Google Analytics tracking ID (e.g. UA-000000-2), setting this will turn on Google Analytics
@@ -39,4 +41,5 @@ compress_html:
   startings: [html, head, body]
 
 rss: false # RSS feed icon on or off
+dark_mode: false # Dark mode icon
 project_card_style: modal # Choose from masonry, modal, and flat
