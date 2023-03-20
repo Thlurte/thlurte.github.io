@@ -7,14 +7,14 @@
 <meta property="og:site_name" content="{{ site.title }}">
 
 {% if page.c_title %}
-<title>thlurte</title>
+<title>{{ page.c_title }}</title>
 <meta property="og:title" content="{{ page.c_title }}">
 {% else %}
 <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
 <meta property="og:title" content="{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}">
 {% endif %}
 
-{a% if page.description %}
+{% if page.description %}
 <meta name="description" content="{{ page.description }}">
 <meta property="og:description" content="{{ page.description }}">
 
