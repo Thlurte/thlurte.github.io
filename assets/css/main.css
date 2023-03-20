@@ -5,6 +5,8 @@ body {
     font-family: 'Fira Code';
     box-sizing: border-box;
     text-align: justify;
+    max-width: 1080px;
+    margin: 0 auto;
 }
 
 a {
@@ -89,7 +91,7 @@ th {
 }
 
 .navigation {
-    text-align: left;
+  text-align: left;
   font-size: 10px;
 }
 

@@ -39,5 +39,4 @@ compress_html:
   startings: [html, head, body]
 
 rss: false # RSS feed icon on or off
-dark_mode: false # Dark mode icon
 project_card_style: modal # Choose from masonry, modal, and flat
