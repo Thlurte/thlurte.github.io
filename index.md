@@ -5,8 +5,7 @@ description: mehhh....
 sitemap:
   priority: 1.0
 ---
-<img src="assets/img/jose-alejandro-cuffia-k1LNP6dnyAE-unsplash.jpg" style="display: block; margin: 0 auto; width: 30%; height: 70%; border-radius: 75px">
-<br>
+<img src="assets/img/dopy-2-1.jpg" style="display: block; margin: 0 auto; width: 30%; height: 60%; border-radius: 50%">
 <br>
 Hi, I am a student exploring the symbiotic relationship between biological and synthetic entities. My preference lies in spending time on building tools that offer humans an additional perspective on the complexity of the natural world.
 
