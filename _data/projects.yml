@@ -45,6 +45,6 @@
     <p>I used streamlit to build this app.It uses matplotlib for creating visualizations, numpy for numerical computations, string for string manipulation, pandas for data analysis, and wordcloud for generating word clouds.</p>
   action_buttons: >
     <a href="https://github.com/Thlurte/LingExplora" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp Repo </a>
-    <a href="http://localhost:4000/2023/03/25/updated.html" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp Blog Post </a>
+    <a href="https://thlurte.github.io/2023/03/25/updated.html" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp Blog Post </a>
     <a href="https://thlurte-lingexplora-main-v6oebw.streamlit.app" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp View Project </a>
   tags: [pandas]
