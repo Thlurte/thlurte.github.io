@@ -12,7 +12,7 @@
   id: pf
   description_less: CNN model to classify chest X-ray images of patients.
   description_more: >
-    <p>This model is developed with tensorflow and has an accuracy of 85% on the test set.</p>
+    <p>This model is developed with pytorch and has an accuracy of 85% on the test set.</p>
   action_buttons: >
     <a href="https://colab.research.google.com/drive/1ksygUrfqC2LfUjSmG4hwt2ANPvgiumBC?usp=sharing" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp View Project</a>
   tags: [cnn,tensorflow]
