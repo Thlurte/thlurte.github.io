@@ -27,4 +27,3 @@ At times i also make feeble attempts to delve deeper into the realm of science f
 <br><br>
 <br>
 <br>
-<a href="{{ site.url }}/heart" style="font-size: 5px; text-decoration: none;">[102, 111, 114, 32, 100, 114, 97, 103, 111, 110]</a>
